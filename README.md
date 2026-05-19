@@ -1,4 +1,4 @@
-# Beeceptor — Cursor Plugin
+# Beeceptor Cursor Plugin
 
 Mock, intercept, and test HTTP APIs without leaving Cursor.
 
